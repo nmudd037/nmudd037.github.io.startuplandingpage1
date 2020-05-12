@@ -50,6 +50,7 @@ html {
 h1{
 	font-size: 3rem;
 	color: #e2dbdb;
+	padding: 10px;
         animation-name: bounce;
         animation-duration: 1s;
 
